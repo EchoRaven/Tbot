@@ -1,0 +1,43 @@
+[2022-06-25 23:35:48] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2022-06-25 23:36:01] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-06-25 23:36:01] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-06-25 23:36:01] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-06-25 23:36:01] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-06-25 23:36:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-06-25 23:36:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-06-25 23:36:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-06-25 23:36:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-06-25 23:39:19] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-06-25 23:39:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-06-25 23:39:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-06-25 23:45:39] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-06-25 23:46:09] [WARNING]: Bot已离线: 你的QQ号于23:46在【NOH-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。 
+[2022-06-25 23:46:12] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2022-06-25 23:46:15] [WARNING]: 尝试重连... 
+[2022-06-25 23:46:18] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-06-25 23:46:18] [WARNING]: 快速重连失败: token failed 
+[2022-06-25 23:46:18] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-06-25 23:46:20] [WARNING]: 账号已开启设备锁，请选择验证方式: 
+[2022-06-25 23:46:20] [WARNING]: 1. 向手机 138******64 发送短信验证码 
+[2022-06-25 23:46:20] [WARNING]: 2. 使用手机QQ扫码验证. 
+[2022-06-25 23:46:20] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择2)： 
+[2022-06-25 23:46:30] [WARNING]: 账号已开启设备锁，请前往 -> https://ti.qq.com/safe/verify?_wv=2&_wwv=128&envfrom=device-lock&uin=3415410395&sig=kuFgUE%2Bx%2F8JcucAjNLx93fF6rEypBw5FTN%2BLIW2TXnAzxsP3rPiGBggWU4sutzTNDxBz5wZ5syhp4WK64dUxm4XKZqGZM9ZC7g6lSFP3tZglWU%2FKohHC7uQv1IvZkokI <- 验证后重启Bot. 
+[2022-06-25 23:46:44] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-06-25 23:46:45] [WARNING]: 恢复会话失败: token failed , 尝试使用正常流程登录. 
+[2022-06-25 23:46:46] [WARNING]: 账号已开启设备锁，请选择验证方式: 
+[2022-06-25 23:46:46] [WARNING]: 1. 向手机 138******64 发送短信验证码 
+[2022-06-25 23:46:46] [WARNING]: 2. 使用手机QQ扫码验证. 
+[2022-06-25 23:46:46] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择2)： 
+[2022-06-25 23:46:51] [WARNING]: 账号已开启设备锁，请前往 -> https://ti.qq.com/safe/verify?_wv=2&_wwv=128&envfrom=device-lock&uin=3415410395&sig=LD4%2BIXf2W%2FqdCFGtvzOoEr%2FgrVwd85p0TqU9g%2FA%2FbJa8tMcSfrRZTsIDDaPxAkJbzs4ZF4PQKUPsDW19QJw0VCXovH0MhRO%2B84ZKgLdhQLaNj0G%2FzEgBYGp89TsAt9J0 <- 验证后重启Bot. 
+[2022-06-25 23:48:31] [WARNING]: 账号已开启设备锁，请选择验证方式: 
+[2022-06-25 23:48:31] [WARNING]: 1. 向手机 138******64 发送短信验证码 
+[2022-06-25 23:48:31] [WARNING]: 2. 使用手机QQ扫码验证. 
+[2022-06-25 23:48:31] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择2)： 
+[2022-06-25 23:48:37] [WARNING]: 请输入短信验证码： (Enter 提交) 
+[2022-06-25 23:57:02] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-06-25 23:57:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-06-25 23:57:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-06-25 23:57:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-06-25 23:57:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-06-25 23:57:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-06-25 23:58:26] [WARNING]: Protocol -> device lock is disable. http api may fail. 

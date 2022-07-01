@@ -1,0 +1,11 @@
+[2022-06-26 10:41:07] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-06-26 10:41:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-06-26 10:41:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-06-26 10:41:54] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-06-26 10:52:19] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-06-26 12:48:56] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.1.4:50716->36.155.229.123:8080: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-06-26 12:49:23] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:50717->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-06-26 13:12:12] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-06-26 13:12:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-06-26 13:24:53] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:60892->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-06-26 13:24:55] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:60892->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
